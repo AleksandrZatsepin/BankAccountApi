@@ -1,6 +1,7 @@
 # BankAccountApi
 
-BankAccountApi is a service for managing accounts.
+BankAccountApi is a versatile service designed for comprehensive account management.
+
 
 ### Functionality provided by the application:Viewing Existing Accounts:
 

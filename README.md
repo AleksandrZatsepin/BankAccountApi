@@ -30,7 +30,7 @@ Conveniently deposit funds into accounts to maintain balances.
 * Swagger
 * JUnit
 
-### Запуск приложения
+### Running the Application:
 Clone the repository.
 Run mvn spring-boot:run from the terminal to start the application.
 After the application starts, you can explore the controller endpoints, request schema, specification, and test the functionality by navigating to the link http://localhost:8080/swagger-ui.html in your browser.
